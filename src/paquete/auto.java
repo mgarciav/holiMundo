@@ -27,7 +27,8 @@ public class auto {
         this.nombre="taxi";
     }
     
-    
+    public void mostrarAño(){
+        System.out.println(año);
     }
     
 }
